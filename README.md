@@ -16,8 +16,8 @@ pip install requests
 
 pip install rich
 
-git clone https://github.com/Rey-XD/toxic.py
+git clone https://github.com/Rey-XD/toxic
 
-cd toxic.py
+cd toxic
 
 python toxic.py
